@@ -1,0 +1,12 @@
+.buttonRow > button {
+    margin: 3px; 
+}
+
+iframe {
+    margin: 15px; 
+    margin-left: 0px; 
+}
+
+#priceHeader {
+    margin-top: 5px;
+}
